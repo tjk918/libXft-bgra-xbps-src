@@ -1,8 +1,11 @@
 ## Install Instructions
 
 clone the `void-linux/void-packages` repo
+
 clone this repo
+
 copy the `libXft-bgra` folder into the `srcpkgs` folder inside of `void-packages`
+
 type the following commands:
 ```
 $ cd void-packages
